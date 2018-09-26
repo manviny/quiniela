@@ -7,11 +7,20 @@
 ### Ventajas
 ### Desventajas
 
-## 2.- SJF ( SHortest Job First )
+## 2.- SJF ( Shortest Job First )
 ### Como funciona
 ### Ventajas
 ### Desventajas
 
+## 3.- SRTF ( Shortest Remaining Time First )
+### Como funciona
+### Ventajas
+### Desventajas
+
+## 4.- RR ( Round Robin )
+### Como funciona
+### Ventajas
+### Desventajas
 
 
 
