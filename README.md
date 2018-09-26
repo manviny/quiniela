@@ -1,3 +1,21 @@
+# Planificación de procesos
+
+## FIFS ( First In First Served )
+
+### Como funciona
+### Ventajas
+### Desventajas
+
+## SJF ( SHortest Job First )
+### Como funciona
+### Ventajas
+### Desventajas
+
+
+
+
+
+
 # quiniela
 ```java
 package quiniela;
