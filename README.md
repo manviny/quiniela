@@ -1,12 +1,13 @@
 # Planificación de procesos
 
-## FIFS ( First In First Served )
+## 1.- FIFS ( First In First Served )
 
 ### Como funciona
+ Este algoritmo ...
 ### Ventajas
 ### Desventajas
 
-## SJF ( SHortest Job First )
+## 2.- SJF ( SHortest Job First )
 ### Como funciona
 ### Ventajas
 ### Desventajas
